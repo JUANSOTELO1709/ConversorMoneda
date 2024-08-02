@@ -6,7 +6,8 @@
 
 
 <p align="center" >
-     <img width="500" heigth="300" src="https://github.com/Carol-dc/Conversor-moneda/blob/main/Insignia-Conversormonedas.png">
-</p>
+[     <img width="500" heigth="300" src="https://github.com/JUANSOTELO1709/ConversorMoneda/blob/main/Conversor-moneda-main/Insignia-Conversormonedas.png">
+]</p>
+
 
 
